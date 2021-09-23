@@ -1,3 +1,3 @@
 # UrunYonetimProjesi
-VeriPark Intern Training Project \n
+VeriPark Intern Training Project \n 
 C# and Angular CLI
